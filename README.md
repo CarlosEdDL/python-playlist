@@ -17,6 +17,6 @@ Copy the whole URL of that page, paste it into the '' Enter the URL you were red
 ## Run the program
 At this point, you should be prompted to choose a date, in the YYYY-MM-DD format, that is, if you want to get the top 100 songs during May 4th of the year 2000, you should write 
 2000-05-04. 
-After you enter the date, what until the script stops running, and go to your spotify profile. You should see the playlist with the 100 (or less, depending on the songs availability in spotify) songs created.
+After you enter the date, wait until the script stops running, and go to your spotify profile. You should see the playlist with the 100 (or less, depending on the songs availability in spotify) songs created.
 
 
